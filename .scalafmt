@@ -1,0 +1,5 @@
+align = more
+maxColumn = 180
+docstrings = ScalaDoc
+assumeStandardLibraryStripMargin = true
+align=more
